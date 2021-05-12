@@ -1,10 +1,11 @@
-# network_of_websites - web scraping & memgraph database script
+# network of websites - web scraping & memgraph database script
 
 ## Running
 
+```
 python main.py network START_URL [--depth | -d DEPTH]
 python main.py path START_URL END_URL
-
+```
 
 ## Dependencies
 
